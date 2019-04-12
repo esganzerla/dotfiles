@@ -163,9 +163,6 @@ call plug#begin()
   Plug 'tpope/vim-fugitive'
   Plug 'airblade/vim-gitgutter'
 
-  " Booking Stuff
-  Plug 'ssh://git.booking.com/gitroot/devtools/vim-booking.git'
-
 call plug#end()
 
 " Solarized
